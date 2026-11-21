@@ -2,7 +2,7 @@
 
 Single-page portfolio for Danish Khan, Semantic SEO Specialist and SEO Manager. Plain HTML, CSS and JavaScript with no build step.
 
-**Live site:** https://dk6691052-arch.github.io/portfolio/
+**Live site:** https://dk6691052-arch.github.io/danish-khan-seo-expert/
 
 ## Highlights
 - Westlink Cleaning Services: clicks 5.48K to 12.2K in 6 months, average position 31.1 to 17
@@ -11,7 +11,7 @@ Single-page portfolio for Danish Khan, Semantic SEO Specialist and SEO Manager. 
 - AGT Institute: 4.68K clicks and 183K impressions in 12 months
 
 ## Add your photo
-Upload a portrait named danish.jpg to the repository root. Until then the page shows a "DK" monogram.
+The profile photo is danish.jpg in the repository root. Replace that file to change it.
 
 ## Edit
 All text and numbers are in index.html. The screenshots are in the repository root.
